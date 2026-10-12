@@ -1,0 +1,6 @@
+{
+  "name": "PHAN'S CUSTOM TAILOR - Đào tạo May Đo",
+  "description": "Chương trình đào tạo thực chiến may đo Full Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
